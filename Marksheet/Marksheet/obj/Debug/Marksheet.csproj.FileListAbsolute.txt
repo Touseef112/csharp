@@ -1,0 +1,7 @@
+C:\Users\Touseef Ahmed khan\source\repos\Marksheet\Marksheet\obj\Debug\Marksheet.csprojAssemblyReference.cache
+C:\Users\Touseef Ahmed khan\source\repos\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.CoreCompileInputs.cache
+C:\Users\Touseef Ahmed khan\source\repos\Marksheet\Marksheet\bin\Debug\Marksheet.exe.config
+C:\Users\Touseef Ahmed khan\source\repos\Marksheet\Marksheet\bin\Debug\Marksheet.exe
+C:\Users\Touseef Ahmed khan\source\repos\Marksheet\Marksheet\bin\Debug\Marksheet.pdb
+C:\Users\Touseef Ahmed khan\source\repos\Marksheet\Marksheet\obj\Debug\Marksheet.exe
+C:\Users\Touseef Ahmed khan\source\repos\Marksheet\Marksheet\obj\Debug\Marksheet.pdb
