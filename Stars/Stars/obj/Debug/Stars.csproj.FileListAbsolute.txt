@@ -1,0 +1,7 @@
+C:\Users\Touseef Ahmed khan\source\repos\Stars\Stars\obj\Debug\Stars.csprojAssemblyReference.cache
+C:\Users\Touseef Ahmed khan\source\repos\Stars\Stars\obj\Debug\Stars.csproj.CoreCompileInputs.cache
+C:\Users\Touseef Ahmed khan\source\repos\Stars\Stars\bin\Debug\Stars.exe.config
+C:\Users\Touseef Ahmed khan\source\repos\Stars\Stars\bin\Debug\Stars.exe
+C:\Users\Touseef Ahmed khan\source\repos\Stars\Stars\bin\Debug\Stars.pdb
+C:\Users\Touseef Ahmed khan\source\repos\Stars\Stars\obj\Debug\Stars.exe
+C:\Users\Touseef Ahmed khan\source\repos\Stars\Stars\obj\Debug\Stars.pdb
